@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/wrk/xsjhdnobkup4/parik/sdaccel/pgdb/xpgFilter/v3_FE_SA_exps/v3_FE_SB_Scan_3_1/_xocc_link_fpga_q6_hw_fpga_q6_hw.dir/impl/build/system/fpga_q6_hw/bitstream/fpga_q6_hw_ipi/ipiimpl/ipiimpl.runs/impl_1'
+let g:netrw_dirhist_2='/etc/postgresql/9.6/main/conf.d'
+let g:netrw_dirhist_3='/proj/xsjhdstaff4/parik/fndry/xsj_work1/dev_opencl/src/database/xql6/kernel/run1_2017_1'
+let g:netrw_dirhist_4='/wrk/xsjhdnobkup4/parik/sdaccel/pgdb/xpgFilter/v3_FE_SA_exps/v3_FE_SB_Scan_3_1/_xocc_link_fpga_q6_hw_fpga_q6_hw.dir/impl/build/system/fpga_q6_hw/bitstream/fpga_q6_hw_ipi/ipiimpl/ipiimpl.runs/impl_1'
+let g:netrw_dirhist_5='/wrk/xsjhdnobkup4/parik/sdaccel/pgdb/xpgFilter/v3_FE_SA_exps/v3_FE_SB_Scan_3_1/run2/_xocc_link_fpga_q6_hw_fpga_q6_hw.dir/impl/build/system/fpga_q6_hw/bitstream/fpga_q6_hw_ipi/ipiimpl/ipiimpl.runs/impl_1'
+let g:netrw_dirhist_6='/wrk/xsjhdnobkup4/parik/gitfndry/data-analytics/xql6/host'
+let g:netrw_dirhist_7='/wrk/xsjhdnobkup4/parik/sdaccel/pgdb/xpgFilter/v3_FE_SA_exps/v3_FE_SB_Scan_3_2/_xocc_link_fpga_sql_hw_fpga_sql_hw.dir/impl/build/system/fpga_sql_hw/bitstream/fpga_sql_hw_ipi/ipiimpl/ipiimpl.runs/impl_1'
+let g:netrw_dirhist_8='/proj/xsjhdstaff4/parik/fndry/xsj_work1/dev_opencl/src/database/pxql/src/_xocc_link_fpga_q6_hw_fpga_q6_hw.dir/impl/build/system/fpga_q6_hw/bitstream/fpga_q6_hw_ipi/ipiimpl/ipiimpl.runs/impl_1'
+let g:netrw_dirhist_9='/proj/xsjhdstaff4/parik/fndry/xsj_work1/dev_opencl/src/database/xql6/host'
